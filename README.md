@@ -745,6 +745,12 @@ It is Friday!! 🥳😎✌️
    <td><a href="https://kahoot.it/">Kahoot</a>
 <p>
 <br>
+<a href="https://docs.google.com/presentation/d/1an2XtB3eGCGSjN4xAqdieNDsapJ4IvxL3K8ApQRWOV8/edit#slide=id.g205afdc590b_0_166">[Presentation] A/B Testing</a>
+<p>
+<br>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Statistics/AB_Testing.ipynb">[Notebook] A/B Testing</a>
+<p>
+<br>
 <p>
 <a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
 <p>
@@ -875,7 +881,7 @@ It is Friday!! 🥳😎✌️
 
 <li>HTML, CSS
 
-<li>Beautiful Soap
+<li>Beautiful Soup
 </li>
 </ul>
 </li>
@@ -929,10 +935,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-[Code Along] Python Modules with VS Code
-<p>
-<br>
-<p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1-L1RsIMYd8ddY3p3Sghu9DSqA8zkBCGYhSUM8IxoV5Y/edit?usp=sharing">[Presentation] APIs</a>
@@ -972,6 +974,8 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+<p> Song Recommender Presentations <p>
+  
    </td>
   </tr>
 </table>
@@ -1057,7 +1061,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td>{Song Recommender Presentations}
+   <td>
 <p>
 <br>
 <p>
@@ -1069,15 +1073,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Data%20Processing/Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Data%20Processing/P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
 <p>
 <br>
 <p>
-[Weekly Retro]
+
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparison</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1dJcP7kXvI8qJ3iuPoj24k_ghSaNgnzylaj1EzQAzIhA/edit?usp=sharing">[Presentation] KNN</a>
 <p>
@@ -1162,6 +1166,12 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
+  
+  <br>
+<p>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
+<p>
+<br>
    </td>
   </tr>
 </table>
@@ -1182,8 +1192,6 @@ It is Friday!! 🥳😎✌️
 <ul>
 
 <li>Agile
-
-<li>Final Project Kickoff.
 
 <li>Final Project Presentation Example.
 
@@ -1209,17 +1217,12 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1yfDidfVVYUlNzY_mbV7DtQaSrUkx-AKuRQB56tkzuyk/edit?usp=sharing">[Presentation] Agile/ Project Management</a>
 <p>
-<br>
-<p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
-<p>
-<br>
 <p>
 <a href="https://docs.google.com/presentation/d/1LwHs1TGLQW5F5dqVw5E9egv5eVUN8t5g79rLwvGRLf0/edit?usp=sharing">[Presentation] Natural Language Processing</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/NLP/NLP.ipynb">[Notebook] NLP</a>
+<a href="">[Notebook] NLP</a>
 <p>
 <br>
 <p>
